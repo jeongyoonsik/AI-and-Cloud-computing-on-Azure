@@ -11,31 +11,4 @@ public class BootSpringBootApplication {
 # References
 * [Microsoft 제품에서 Jupyter Notebook 사용](https://docs.microsoft.com/ko-kr/azure/notebooks/quickstart-export-jupyter-notebook-project#use-azure-lab-services)
 
-[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
-<a href="www.google.com" target="_blank">
-
-* ㅇㅇㅇ
-
-*strong*
-
-**strong**
-
-#H1
-
-##H2
-
-###H3
-
-
-####H4
-
-**Visual Studio Code**
-
-GitHub Codespaces
-
-Azure Machine Learning
-
-Azure Lab Services
-
-GitHub
