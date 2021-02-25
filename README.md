@@ -6,7 +6,7 @@ Machine-Learning / Deep-Learning을 개발할 때, Azure 사용 방법을 익힌
 * Azure Machine Learning Service
 * Azure Batch
 * Azure VMs
-** https://azure.microsoft.com/en-us/blog/power-your-azure-gpu-workstations-with-flexible-gpu-partitioning/
+  * https://azure.microsoft.com/en-us/blog/power-your-azure-gpu-workstations-with-flexible-gpu-partitioning/
 * Azure Databricks
 * HPC
 
