@@ -16,3 +16,5 @@ public class BootSpringBootApplication {
 * Azure Machine Learning Service
 * Azure Databricks
 * Github codespace
+* Azure VMs
+* Azure Batch
