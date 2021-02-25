@@ -9,7 +9,7 @@ public class BootSpringBootApplication {
 }
 ```
 
-[Microsoft 제품에서 Jupyter Notebook 사용](https://docs.microsoft.com/ko-kr/azure/notebooks/quickstart-export-jupyter-notebook-project#use-azure-lab-services)
+[Microsoft 제품에서 Jupyter Notebook 사용](https://docs.microsoft.com/ko-kr/azure/notebooks/quickstart-export-jupyter-notebook-project#use-azure-lab-services){:target="_blank"}
 
 * ㅇㅇㅇ
 
