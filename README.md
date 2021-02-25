@@ -1,6 +1,9 @@
 # AI-and-Cloud-computing-on-Azure
 
 # Agenda
+1. aaa
+2. bbb
+3. ccc
 * Github codespace
 * Azure Machine Learning Service
 * Azure Batch
