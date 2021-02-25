@@ -1,6 +1,6 @@
 # AI-and-Cloud-computing-on-Azure
 
-Machine-Learning / Deep-Learning을 사용하여 model을 사용하여 개발할 때, Azure 사용에 관한 case study를 한다.
+Machine-Learning / Deep-Learning을 개발할 때, Azure 사용 방법을 익힌다.
 
 * Github codespace
 * Azure Machine Learning Service
