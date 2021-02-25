@@ -1,8 +1,8 @@
 # AI-and-Cloud-computing-on-Azure
 
 # Agenda
-* Azure Machine Learning Service
 * Github codespace
+* Azure Machine Learning Service
 * Azure Batch
 * Azure VMs
 * Azure Databricks
