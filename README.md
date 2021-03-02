@@ -12,4 +12,4 @@ Machine-Learning / Deep-Learning을 개발할 때, Azure 사용 방법을 익힌
 
 # References
 * [Microsoft 제품에서 Jupyter Notebook 사용](https://docs.microsoft.com/ko-kr/azure/notebooks/quickstart-export-jupyter-notebook-project#use-azure-lab-services)
-
+* [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator)
